@@ -13,7 +13,11 @@ This repository contains shared Claude AI configuration and settings that can be
 1. Clone this repository
 2. Run the sync script to copy files to your local Claude configuration:
    ```bash
-   ./scripts/sync_to_claude.sh
+   ./scripts/sync_to_claude.py
+   ```
+   Or:
+   ```bash
+   python3 scripts/sync_to_claude.py
    ```
 
 ## Contents
