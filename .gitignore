@@ -1,0 +1,27 @@
+# Local Claude folder
+.claude/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv
+.env
+
+# uv
+.venv/
+uv.lock
