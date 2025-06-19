@@ -9,7 +9,7 @@ I'll first conduct thorough research to understand the required context:
 1. **Explore documentation** - I'll check if the user has added any relevant documentation in the ai_docs/ directory
 2. **Analyze existing PRPs** - I'll examine the structure and patterns in existing PRPs, especially base_template_v1
 3. **Explore codebase** - I'll identify relevant files that should be referenced in the PRP
-4. **Web search if needed** - For any external libraries or concepts mentioned that require additional context
+4. **Context7 or Web search if needed** - For any external libraries or concepts mentioned that require additional context
 
 ## Initial Information Gathering
 
